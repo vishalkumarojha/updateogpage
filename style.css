@@ -2,7 +2,7 @@ html, body {
     height: 100%;
     width: 100%;
     overflow: hidden;
-    background-color: #cccccc;
+    background-color: #ffffff;;
     font-family: monospace;
   }
   
@@ -42,8 +42,8 @@ html, body {
     max-height: 700px;
     border-radius: 48px;
     box-sizing: border-box;
-    border: 16px solid #ebf0f4;
-    background-color: #d8dbdb;
+    border: 16px solid #ffffff;;
+    background-color: #ffffff;;
     overflow: hidden;
     box-shadow: 16px 16px 48px #05060730;
     position: absolute;

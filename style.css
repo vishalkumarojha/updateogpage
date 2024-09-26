@@ -36,10 +36,10 @@ html, body {
   }
   
   .popup {
-    width: 90%;
+    width: 102%;
     height: 170%;
-    min-height: 700px;
-    max-height: 700px;
+    min-height: 800px;
+    max-height: 800px;
     border-radius: 48px;
     box-sizing: border-box;
     border: 16px solid #ffffff;;
